@@ -1,4 +1,18 @@
-v0.40.46
+v 41.15
+
+User side changes:
+- [PRESET] Added filters for loading presets
+- [WTO] Improved detune
+- [WAVETABLE] Fixed occasional crash when loading tables
+- [WAVETABLE] Added filter for loading only WAV files
+- [WAVETABLE] Fixed bug preventing loading certain wavetables
+- [FILEBROWSER] Filtering files by type
+
+Internal changes:
+- [CONSOLE] Screenshot now saves in RGB :)
+
+v0.40.67
+
 User side changes:
 - [PATCH] changed name of file operations menu to 'File'
 - [PATCH] Save will open text input if no patch name
