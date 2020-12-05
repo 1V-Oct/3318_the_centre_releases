@@ -1,0 +1,11 @@
+
+User side changes:
+- [PATCH] changed name of file operations menu to 'File'
+- [PATCH] Save will open text input if no patch name
+- [PATCH] Save As will actually save patch :P
+
+Internal changes:
+- [STORAGE] fixed problem saving files >512B
+- [CONSOLE] added screenshot feature 'scr <filename>'
+- [CONSOLE] added mkdir feature 'mkdir <dirname>'
+- [CONSOLE] added ls
