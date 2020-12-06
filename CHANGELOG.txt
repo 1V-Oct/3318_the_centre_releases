@@ -1,4 +1,11 @@
-v 41.15
+v0.41.20
+
+User side changes:
+- [WAVETABLE] fixed bug in loader causing clipping of wavetables in certain circumstances
+- [WTO] fixed big bug in Unison causing sound distortion in odd unison sequences
+
+
+v0.41.15
 
 User side changes:
 - [PRESET] Added filters for loading presets
@@ -10,6 +17,7 @@ User side changes:
 
 Internal changes:
 - [CONSOLE] Screenshot now saves in RGB :)
+
 
 v0.40.67
 
