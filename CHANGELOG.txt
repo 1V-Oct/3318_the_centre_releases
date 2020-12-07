@@ -1,3 +1,11 @@
+
+v0.41.30
+
+User side changes:
+- [WAVETABLE] Fixed another clipping issue
+- [WAVETABLE] Better 2D display of wavetables
+- [WTO] Wavetable selection instability fixed
+
 v0.41.20
 
 User side changes:
