@@ -1,3 +1,9 @@
+v0.41.33
+
+- [WAVETABLE] fixed problem loading 16bit tables (half tables loaded only)
+- [WAVETABLE] 3D display should show wavetables and mark current one properly
+- [WAVETABLE] crash in wavetable changing should be resolved
+- [WAVETABLE] limit on available wavetabkles to slip through should be removed
 
 v0.41.30
 
