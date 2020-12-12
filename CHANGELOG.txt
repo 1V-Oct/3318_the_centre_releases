@@ -1,3 +1,8 @@
+v0.41.47
+
+- [WAVETABLE] limited display of tables in 3D to 14 (seems to look better)
+- [WAVETABLE] fixed problem with "scanning" wavetables
+
 v0.41.33
 
 - [WAVETABLE] fixed problem loading 16bit tables (half tables loaded only)
