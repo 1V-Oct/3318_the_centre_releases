@@ -1,3 +1,14 @@
+MLF - Ladder Filter
+WTO - Wavetable Oscillator
+WT  - General wavetable
+ECA - Simple ADSR Envolope controlled VCA
+
+v0.41.67
+
+- [ECA] Rewrite completely to support Stereo Input / Output
+- [MLF] Rewrite to support Stereo processing
+
+
 v0.41.47
 
 - [WAVETABLE] limited display of tables in 3D to 14 (seems to look better)
