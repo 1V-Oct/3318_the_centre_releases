@@ -5,7 +5,7 @@ ECA - Simple ADSR Envolope controlled VCA
 LFS - Low Frequency Shaper - Shape based LFO/Envelope
 
 ==
-v0.45.01
+v0.45.02
 
 - [LFS] Added Low Frequency Shaper - LFO that takes .shp files and plays them
 - [PRESET] Fixed bug that caused inputs to be messed around after loading files
