@@ -3,8 +3,16 @@ WTO - Wavetable Oscillator
 WT  - General wavetable
 ECA - Simple ADSR Envolope controlled VCA
 LFS - Low Frequency Shaper - Shape based LFO/Envelope
+BRM - Balanced Ring Modulator
 
 ==
+v0.45.32
+- [LFS] fixed LFS output for 5V
+- [LFS] now properly cleans itself after finishing triggered module_t
+- [WTO] improved loading
+- [BRM] added Balanced Ring Modulator - modulates audoio input with CV input
+
+--
 v0.45.02
 
 - [LFS] Added Low Frequency Shaper - LFO that takes .shp files and plays them
