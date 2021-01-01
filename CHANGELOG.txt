@@ -2,17 +2,29 @@ MLF - Ladder Filter
 WTO - Wavetable Oscillator
 WT  - General wavetable
 ECA - Simple ADSR Envolope controlled VCA
+LFS - Low Frequency Shaper - Shape based LFO/Envelope
 
+==
+v0.44.99
+
+- [LFS] Added Low Frequency Shaper - LFO that takes .shp files and plays them
+- [PRESET] Fixed bug that caused inputs to be messed around after loading files
+- [CLK] Fixed BPM
+
+--
 v0.41.67
 
 - [ECA] Rewrite completely to support Stereo Input / Output
 - [MLF] Rewrite to support Stereo processing
 
+--
 
 v0.41.47
 
 - [WAVETABLE] limited display of tables in 3D to 14 (seems to look better)
 - [WAVETABLE] fixed problem with "scanning" wavetables
+
+--
 
 v0.41.33
 
