@@ -6,6 +6,12 @@ LFS - Low Frequency Shaper - Shape based LFO/Envelope
 BRM - Balanced Ring Modulator
 
 ==
+v0.46.27
+- [VCO/LFO] Added UI to display oscillator waveform
+- [VCO/LFO] Added 'skew' to sime oscillator
+- [VCO/LFO] Fixed PWM output of square oscillator
+
+--
 v0.45.63
 - [WAVETABLE] Improved performance of 2d wavetable display
 - [LFO] fixed reset
@@ -15,7 +21,7 @@ v0.45.63
 - [VCO] fixed fm and pm parameters
 - [OSC] fixed square oscillator
 
-
+--
 v0.45.32
 - [LFS] fixed LFS output for 5V
 - [LFS] now properly cleans itself after finishing triggered module_t
