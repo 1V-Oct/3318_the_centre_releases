@@ -4,8 +4,17 @@ WT  - General wavetable
 ECA - Simple ADSR Envolope controlled VCA
 LFS - Low Frequency Shaper - Shape based LFO/Envelope
 BRM - Balanced Ring Modulator
+BQF - Biquad Filter
 
 ==
+v0.47.00
+- [BQF] added selection of input and output channels
+- [BQF] added proper visualisation of magnitude response 
+- [BQF] added configurable inputs
+- [UI] added fixes in wave displays
+- [MLF] added visualisation of magnitude response
+
+--
 v0.46.27
 - [VCO/LFO] Added UI to display oscillator waveform
 - [VCO/LFO] Added 'skew' to sime oscillator
