@@ -7,6 +7,17 @@ BRM - Balanced Ring Modulator
 BQF - Biquad Filter
 
 ==
+v0.47.83
+- [WTO] fixed detune of unison voices
+- [WTO] rewritten oscillator to allow more parameters (prepare for FX implementation)
+- [INPUTS] added "BCK" button to allows coming back from input configuration with encoder only
+- [PATCH] fixed all Virtaul Audio Buffers
+- [PATCH] patch view rearranged to show module inputs and outputs
+- [BQF] fixed serious memory problem
+- [GENERAL] Cleanup and internal fixes
+- [CONSOLE] fix to handle BS properly
+
+--
 v0.47.00
 - [BQF] added selection of input and output channels
 - [BQF] added proper visualisation of magnitude response 
