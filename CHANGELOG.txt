@@ -5,8 +5,18 @@ ECA - Simple ADSR Envolope controlled VCA
 LFS - Low Frequency Shaper - Shape based LFO/Envelope
 BRM - Balanced Ring Modulator
 BQF - Biquad Filter
+CMP - compressor
 
 ==
+v0.48.56
+- [CMP] added audio compressor module
+- [PATCH] fixed problem with adding and removing modules causing inputs misalignment
+- [PATCH] fixed critical error when loading and saving patch
+- [LFS] fixed problem loading shapes
+- [SETTINGS] fixed selection of buffered inputs and outputs
+- [CON] Fixed UART overflow bug
+- [SYS] fixed memory leak on removing patch
+
 v0.47.86
 - [WTO] fixed detune of unison voices
 - [WTO] rewritten oscillator to allow more parameters (prepare for FX implementation)
