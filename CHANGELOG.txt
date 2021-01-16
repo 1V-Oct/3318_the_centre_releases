@@ -8,6 +8,15 @@ BQF - Biquad Filter
 CMP - compressor
 
 ==
+v0.49.7
+[BRM] added smoothing option to ring modulator
+[WTO] rewrote unison and detune (sounds better)
+[WTO] added output limiter
+[CMP] compressor now can operate on stereo channels
+[CMP] fixed compressor ratio limits to prefent overflow
+[OUT] fixed output limiter to prevent clipping
+
+--
 v0.48.56
 - [CMP] added audio compressor module
 - [PATCH] fixed problem with adding and removing modules causing inputs misalignment
@@ -17,6 +26,7 @@ v0.48.56
 - [CON] Fixed UART overflow bug
 - [SYS] fixed memory leak on removing patch
 
+--
 v0.47.86
 - [WTO] fixed detune of unison voices
 - [WTO] rewritten oscillator to allow more parameters (prepare for FX implementation)
