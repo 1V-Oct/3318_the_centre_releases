@@ -6,14 +6,25 @@ LFS - Low Frequency Shaper - Shape based LFO/Envelope
 BRM - Balanced Ring Modulator
 BQF - Biquad Filter
 CMP - compressor
+RNG - Random Note Gnerator
 
 ==
+v0.50.37
+[CV/GATE] completely reworked CVY inputs to serve only as gate/clk inputs (no voltage change detected)
+[CMP] fixed range of variables
+[RNG] changed response time to 1/64th note clock
+[INPUTS] added control over default value if no inputs (or no LVL) connected
+[INPUTS] now it is possible to scroll through all inputs with encoder without coming back
+[INPUTS] added CLK type input (preparation for HW change of CVY being only GATES/CLK)
+[SMPL] fixed corruption on loading single shot samples
+
+--
 v0.49.7
 [BRM] added smoothing option to ring modulator
 [WTO] rewrote unison and detune (sounds better)
 [WTO] added output limiter
 [CMP] compressor now can operate on stereo channels
-[CMP] fixed compressor ratio limits to prefent overflow
+[CMP] fixed compressor ratio limits to prevent overflow
 [OUT] fixed output limiter to prevent clipping
 
 --
