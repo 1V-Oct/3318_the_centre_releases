@@ -9,6 +9,15 @@ CMP - compressor
 RNG - Random Note Gnerator
 
 ==
+v0.?
+[WTO] added polyphony
+[MOD] added polyphony to handle VOCT (for now only)
+[MOD] fixed critical bug with modules inputs being mismatched
+[MOD] rewrite default system for inputs
+[SYS] added calibration and fixed calibration saving problem
+[LOG] fixed crash with long path names
+
+==
 v0.50.37
 [CV/GATE] completely reworked CVY inputs to serve only as gate/clk inputs (no voltage change detected)
 [CMP] fixed range of variables
@@ -34,7 +43,7 @@ v0.48.56
 - [PATCH] fixed critical error when loading and saving patch
 - [LFS] fixed problem loading shapes
 - [SETTINGS] fixed selection of buffered inputs and outputs
-- [CON] Fixed UART overflow bug
+- [CON] Fixed UART overflow bug 
 - [SYS] fixed memory leak on removing patch
 
 --
