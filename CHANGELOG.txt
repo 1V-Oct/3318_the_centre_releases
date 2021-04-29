@@ -9,7 +9,7 @@ CMP - compressor
 RNG - Random Note Gnerator
 
 ==
-v0.?
+v0.61.40
 [WTO] added polyphony
 [MOD] added polyphony to handle VOCT (for now only)
 [MOD] fixed critical bug with modules inputs being mismatched
