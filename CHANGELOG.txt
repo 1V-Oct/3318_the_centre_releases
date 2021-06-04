@@ -8,6 +8,13 @@ BQF - Biquad Filter
 CMP - compressor
 RNG - Random Note Gnerator
 
+v0.63.2
+[ENV] Fixed timing
+[SMP] Fixed sample loader
+[SYS] Fixed software updater
+[SYS] Merged all versions of hardware into single source
+[SYS] SD Card bumped read speed to 4x on v4 hardware
+
 ==
 v0.61.40
 [WTO] added polyphony
