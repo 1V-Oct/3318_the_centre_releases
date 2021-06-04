@@ -8,7 +8,8 @@ BQF - Biquad Filter
 CMP - compressor
 RNG - Random Note Gnerator
 
-v0.63.2
+==
+v0.63.5
 [ENV] Fixed timing
 [SMP] Fixed sample loader
 [SYS] Fixed software updater
