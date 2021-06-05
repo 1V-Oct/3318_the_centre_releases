@@ -9,6 +9,10 @@ CMP - compressor
 RNG - Random Note Gnerator
 
 ==
+v0.63.65
+[SYS] Improved calibration (still not interactive)
+
+--
 v0.63.55
 [ENV] Fixed envelope generation
 [ENV] Changed envelope to allow retriger
@@ -16,7 +20,6 @@ v0.63.55
 [FXP] Added preliminary loader of shapes
 [SYS] Added check of CRC32 for firmware update
 [SYS] Fixed SD card removal detection on v3 HW
-[]
 
 --
 v0.63.55
