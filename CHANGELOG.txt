@@ -9,14 +9,24 @@ CMP - compressor
 RNG - Random Note Gnerator
 
 ==
-v0.63.5
+v0.63.55
+[ENV] Fixed envelope generation
+[ENV] Changed envelope to allow retriger
+[BRM] Fixed smoothing 
+[FXP] Added preliminary loader of shapes
+[SYS] Added check of CRC32 for firmware update
+[SYS] Fixed SD card removal detection on v3 HW
+[]
+
+--
+v0.63.55
 [ENV] Fixed timing
 [SMP] Fixed sample loader
 [SYS] Fixed software updater
 [SYS] Merged all versions of hardware into single source
 [SYS] SD Card bumped read speed to 4x on v4 hardware
 
-==
+--
 v0.61.40
 [WTO] added polyphony
 [MOD] added polyphony to handle VOCT (for now only)
@@ -25,7 +35,7 @@ v0.61.40
 [SYS] added calibration and fixed calibration saving problem
 [LOG] fixed crash with long path names
 
-==
+--
 v0.50.37
 [CV/GATE] completely reworked CVY inputs to serve only as gate/clk inputs (no voltage change detected)
 [CMP] fixed range of variables
