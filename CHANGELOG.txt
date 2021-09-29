@@ -9,6 +9,13 @@ CMP - compressor
 RNG - Random Note Gnerator
 
 ==
+v0.68.96
+[SYS] Added user controlled calibration
+[SYS] Reset on crash
+[ENV] Fixed envolope timing
+[VCA] Renamed Ring Modulator to VCA
+
+--
 v0.63.65
 [SYS] Improved calibration (still not interactive)
 
