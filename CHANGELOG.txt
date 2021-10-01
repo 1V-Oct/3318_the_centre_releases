@@ -9,6 +9,9 @@ CMP - compressor
 RNG - Random Note Gnerator
 
 ==
+v0.69.45
+ISSUE WITH GITHUB
+
 v0.69.25
 [SYS] SD Card Detection and display in status bar
 
