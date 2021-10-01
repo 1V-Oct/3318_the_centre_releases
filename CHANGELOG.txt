@@ -9,9 +9,13 @@ CMP - compressor
 RNG - Random Note Gnerator
 
 ==
-v0.68.96
+v0.69.25
+[SYS] SD Card Detection and display in status bar
+
+--
+v0.68.99
 [SYS] Added user controlled calibration
-[SYS] Reset on crash
+[SYS] Reset on crash instead of breakpoint
 [ENV] Fixed envolope timing
 [VCA] Renamed Ring Modulator to VCA
 
