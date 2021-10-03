@@ -8,10 +8,24 @@ BQF - Biquad Filter
 CMP - compressor
 RNG - Random Note Gnerator
 
-==
-v0.69.45
-ISSUE WITH GITHUB
+SYS - System related information
+PCH - Patch menu
 
+==
+v0.70.13
+[PCH] New Menu to navigate patches (not finished)
+[SYS] New Test firmware
+[SYS] ADC improved response
+
+v0.69.62
+[WTO] Added loading Vital exported wavetables
+[WTO] Fixed problem when the table was empty
+[BUF] Fixed assigning inputs for modules with no inputs
+
+v0.69.45
+[INF] Resolved serious issue with corrupted files on GitHub
+
+--
 v0.69.25
 [SYS] SD Card Detection and display in status bar
 
