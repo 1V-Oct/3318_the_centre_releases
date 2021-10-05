@@ -9,9 +9,23 @@ CMP - compressor
 RNG - Random Note Gnerator
 
 SYS - System related information
+SET - Settings
+INP - Inputs
 PCH - Patch menu
 
 ==
+v0.71.00
+
+[PCH] Added patch browser
+[PCH] Fixed bug with too many patches in Add Menu
+[PCH] Added Message Box confirmation to Init Patch
+[SET] Fixed bug in settings of extending number of settungs limit
+[INP] Added Level8 control to inputs (allows setting value)
+[ENV] Fixed gray area problem
+[ENV] Added saving of envelope inside patch
+[VCA] Fixed stereo processing
+
+--
 v0.70.13
 [PCH] New Menu to navigate patches (not finished)
 [SYS] New Test firmware
