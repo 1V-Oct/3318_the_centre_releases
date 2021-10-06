@@ -14,6 +14,13 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.71.19
+
+[PCH] Now can go through saved presets with encoder directly
+[PCH] Fixed problem with not showing loaded patch
+[SYS] Text Input - added "Del" button
+[SYS] Text Input - rewrote whole character input, now 3 rows.
+--
 v0.71.00
 
 [PCH] Added patch browser
