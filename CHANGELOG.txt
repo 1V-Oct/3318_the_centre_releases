@@ -14,6 +14,11 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.71.27 *HOTFIX*
+
+[PCH] Encorder wasn't refreshed after adding modules
+[INP] Level8 value control now only changes after rotating knob
+
 v0.71.19
 
 [PCH] Now can go through saved presets with encoder directly
