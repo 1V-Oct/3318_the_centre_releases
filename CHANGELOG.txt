@@ -14,6 +14,15 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.72.64
+[SMP] Added V/OCT control
+[SMP] Fixed loading of PCM samples
+[WTO] Fixed certain combination of wavetables
+[WTO] sync oscillators on Unison change (EXPERIMENTAL)
+[SYS] Rewrittent WAV file loader
+[SYS] Added Test Menu (Hidden in production builds)
+
+
 v0.71.27 *HOTFIX*
 
 [PCH] Encorder wasn't refreshed after adding modules
