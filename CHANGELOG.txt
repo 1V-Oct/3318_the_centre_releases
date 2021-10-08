@@ -14,6 +14,9 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.72.68 *HOTFIX*
+[SYS] Added check on sample buffer overflow. No more crash on too full sample memory.
+
 v0.72.64
 [SMP] Added V/OCT control
 [SMP] Fixed loading of PCM samples
@@ -22,14 +25,13 @@ v0.72.64
 [SYS] Rewrittent WAV file loader
 [SYS] Added Test Menu (Hidden in production builds)
 
-
+--
 v0.71.27 *HOTFIX*
-
 [PCH] Encorder wasn't refreshed after adding modules
 [INP] Level8 value control now only changes after rotating knob
 
+--
 v0.71.19
-
 [PCH] Now can go through saved presets with encoder directly
 [PCH] Fixed problem with not showing loaded patch
 [SYS] Text Input - added Del button
