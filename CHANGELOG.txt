@@ -14,6 +14,11 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.73.11
+[PCH] Added Controllers Map
+[PCH] Using encoder browses through presets correctly now
+[SYS] Reworked input names, gives better insight
+--
 v0.72.68 *HOTFIX*
 [SYS] Added check on sample buffer overflow. No more crash on too full sample memory.
 
