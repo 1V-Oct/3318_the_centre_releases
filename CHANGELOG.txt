@@ -14,6 +14,12 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.73.30
+[INP] Fixed Octave input to be -8 - +8 octaves
+[GAT] Gater wasn't generating gates properly
+[GAT] Added 2Bar and 4-Bar as gate intervals
+[GAT] !!! Bug, Gete Trigger does not work, always use gate of length 1/32 minimum
+
 v0.73.11
 [PCH] Added Controllers Map
 [PCH] Using encoder browses through presets correctly now
