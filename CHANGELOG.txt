@@ -14,6 +14,10 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.73.38 *HOTFIX*
+[INP] Octave was shifted 5 octaves down
+
+
 v0.73.30
 [INP] Fixed Octave input to be -8 - +8 octaves
 [GAT] Gater wasn't generating gates properly
