@@ -14,6 +14,15 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.74.11 *EXPERIMENTAL*
+[SYS] Added experimental settings in system menu regarding Issue #27
+
+[https://github.com/1V-Oct/3318_the_centre_releases/issues/27]
+
+Discussion about it also in [https://discord.gg/HgsHpvqa]
+
+
+
 v0.73.38 *HOTFIX*
 [INP] Octave was shifted 5 octaves down
 
