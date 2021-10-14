@@ -14,6 +14,9 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.74.48 *HOTFIX*
+[ALL] Some modules have been released misconfigured
+
 v0.74.46
 [INP] Inputs were having frong reference names to other modules (Issue #29)
 [PCH] Init was not working. Restored. (Issue #32)
