@@ -14,6 +14,15 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.74.46
+[INP] Inputs were having frong reference names to other modules (Issue #29)
+[PCH] Init was not working. Restored. (Issue #32)
+[SYS] Added Delete function to Filebrowser (Issue #20)
+[SYS] Added NewDir (Create Directory) function to filebrowser
+[SYS] Fixed misbehaviour when message box is open
+[SYS] Retaining experimental settings until fully resolved (Issue #27)
+
+--
 v0.74.11 *EXPERIMENTAL*
 [SYS] Added experimental settings in system menu regarding Issue #27
 
@@ -21,11 +30,9 @@ v0.74.11 *EXPERIMENTAL*
 
 Discussion about it also in [https://discord.gg/HgsHpvqa]
 
-
-
+--
 v0.73.38 *HOTFIX*
 [INP] Octave was shifted 5 octaves down
-
 
 v0.73.30
 [INP] Fixed Octave input to be -8 - +8 octaves
