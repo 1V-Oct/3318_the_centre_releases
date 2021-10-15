@@ -15,6 +15,16 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.75.24 *EXPERIMENTAL*
+
+*THIS VERSION MIGHT HAVE SIDE EFFECTS PLEASE USE 0.75.10 IF YOU ARE NOT WILLING TO TEST CHANGES IN THIS VERSION *
+
+[INP] Changed attenuators to be attenuverters
+[INP] Value of Level and Attenuverter can be set with Val or Lvl8
+[INP] Value set for Level or Att is finally working (might have random effects)
+
+
+
 v0.75.10
 [WTO] Loading wavetable problem addressed (Issue #31)
 [ENV] Envelope displays now times of envelope sections
