@@ -2,6 +2,7 @@ MLF - Ladder Filter
 WTO - Wavetable Oscillator
 WT  - General wavetable
 ECA - Simple ADSR Envolope controlled VCA
+ENV - AHDSR Envelope
 LFS - Low Frequency Shaper - Shape based LFO/Envelope
 BRM - Balanced Ring Modulator
 BQF - Biquad Filter
@@ -14,6 +15,12 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.75.10
+[WTO] Loading wavetable problem addressed (Issue #31)
+[ENV] Envelope displays now times of envelope sections
+[SYS] Fixed colour reproduction in screenshots
+
+--
 v0.74.48 *HOTFIX*
 [ALL] Some modules have been released misconfigured
 
