@@ -15,10 +15,11 @@ INP - Inputs
 PCH - Patch menu
 
 ==
-v0.76.63 * EXPERIMENTAL FIX*
+v0.77.11 * EXPERIMENTAL FIX*
 If you are running version above 0.74.00 then you should update to this version.
 
 [SYS] Lowered clock for SPI bus.
+[SYS] Fixed screen blink
 
 0.75.70 *EXPERIMENTAL*
 
