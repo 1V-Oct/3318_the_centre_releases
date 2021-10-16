@@ -15,6 +15,14 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+0.75.70 *EXPERIMENTAL*
+
+*THIS IS VERY EXPERIMENTAL*
+Only difference is added Debug Crash Dump. It will save crash-dump-xxxx.bin files into crash-dump directory.
+Upon crash, please send information and crash-dump data to me.
+
+[SYS] Crash Dump Handler - dump related crash info into SD Card
+
 v0.75.24 *EXPERIMENTAL*
 
 *THIS VERSION MIGHT HAVE SIDE EFFECTS PLEASE USE 0.75.10 IF YOU ARE NOT WILLING TO TEST CHANGES IN THIS VERSION *
