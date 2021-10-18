@@ -15,6 +15,11 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.77.83
+[SMP] Changed sample playback engine to play single or looped samples (smaple based oscillator)
+[INP] Fixed corner case crash #34
+
+--
 v0.77.11 * EXPERIMENTAL FIX*
 If you are running version above 0.74.00 then you should update to this version.
 
