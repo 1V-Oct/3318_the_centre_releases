@@ -15,8 +15,14 @@ INP - Inputs
 PCH - Patch menu
 
 ==
-v0.80.03
+v0.84.04
+[SYS] Changed Default wavetable to be only for WTO
+[ENV] Complete rewrite of Envelope, with full UI control of envelopes
+[SHP] Complete rewrite of Low Frequency Shaper
+[PCH] Preliminary import of presets
 
+--
+v0.80.03
 [MIX] Added Mixer (workks with 4 audio inputs)
 [BRM] Balanced Ring Modulator (works with 2 Audio Inputs)
 [SYS] Completelly rewritten engine for module inputs
@@ -25,7 +31,7 @@ v0.80.03
 [ENV] Changed Envelope calculations. Added input control for curves on ADR
 [SMP] Manual Gate (from Menu) now works for Trigger only samples
 
-==
+--
 v0.77.83
 [SMP] Changed sample playback engine to play single or looped samples (smaple based oscillator)
 [INP] Fixed corner case crash #34
