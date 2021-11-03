@@ -15,11 +15,23 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.85.17
+[INP] V/OCT wasn't working as modulation source (note: V/OCT range is -3V - +8V)
+[ENV] Default ENVELOPE was curved
+[PCH] FXP presets will have also NOISE sample extracted if embedded
+[PCH] FXP now turn unused modules off
+[ENV] Added Gate Delay (linear setting 0s - 4s) to envelope trigger
+[SYS] Crash handler was missing log
+[WTO] Added Detune WT (each unison oscillator gets tiny fraction of other tables)
+[WTO] Added Glide (Portamento) between note changes
+[WTO] Added Glide Scaled - Glide lasts fraction of disatnce between frequencies (longer distance, longer glide)
+
+--
 v0.84.04
 [SYS] Changed Default wavetable to be only for WTO
 [ENV] Complete rewrite of Envelope, with full UI control of envelopes
 [SHP] Complete rewrite of Low Frequency Shaper
-[PCH] Preliminary import of presets
+[PCH] Preliminary import of FXP presets (very limited and buggy)
 
 --
 v0.80.03
