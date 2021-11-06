@@ -15,11 +15,16 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.86.19
+[INP] Completely rewrote input config engine
+[PCH] FXP loading was broken in previous version
+
+--
 v0.85.71
 [ENV] Fixed weird problem with Env edit limited to 3 sections
 [SHP] Added loading of Vital Shapes (.vitallfo)
 
-
+--
 v0.85.17
 [INP] V/OCT wasn't working as modulation source (note: V/OCT range is -3V - +8V)
 [ENV] Default ENVELOPE was curved
