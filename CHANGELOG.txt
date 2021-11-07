@@ -15,6 +15,11 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.86.64
+[SET] VBufs were messed upon certain actions causing patches saved to be corrupted
+[PCH] On bootup the last patch loaded will be automatically loaded [ENABLE IN SYSTEM SETTINGS]
+
+--
 v0.86.19
 [INP] Completely rewrote input config engine
 [PCH] FXP loading was broken in previous version
