@@ -15,7 +15,7 @@ INP - Inputs
 PCH - Patch menu
 
 ==
-v0.86.64
+v0.86.66
 [SET] VBufs were messed upon certain actions causing patches saved to be corrupted
 [PCH] On bootup the last patch loaded will be automatically loaded [ENABLE IN SYSTEM SETTINGS]
 
