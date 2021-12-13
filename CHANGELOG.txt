@@ -15,6 +15,19 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v0.93.91 *EXPERIMENTAL *
+[WTO] Added wavetable editor
+[SHP] Added shape editor
+[PCH] New Save As dialog allowing selection of destination directory
+[MID] Added SysEx firmware updater over MIDI for other modules (Tamar)
+[WTO] Added splash text to show there is Wavetable Editor
+[WTO] Fixed crash in waveform renderer (out of bounds)
+[SHP] Fixed curves in shapes
+[WTO] Inputs would override Button Bar
+[PCH] Fixed memory leaks
+[WTO] Release of oscillators upon delete
+
+--
 v0.86.66
 [SET] VBufs were messed upon certain actions causing patches saved to be corrupted
 [PCH] On bootup the last patch loaded will be automatically loaded [ENABLE IN SYSTEM SETTINGS]
