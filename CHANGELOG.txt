@@ -15,6 +15,24 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v1.4.43
+[VCF] All filters completely rewritten
+[SYS] Fixed problem with offset to notes (all notes shifted by semitone)
+[ECA] Fixed gate from CVY
+[PCH] Clear patch name after init
+[GAT] Added reset of all gates upon trigger
+[LFS] Added Bipolar mode (polarity selection in settings)
+[LFS] Inverted shape to make visual match output
+[LFS] Shapes now can be defined with JSON format (.SHJ file format)
+[VCO] Fixed FM
+[ENV] Fixed envelopes with very short release times to not trigger sustain mode
+[MID] Added MIDI module for Tamar
+[SYS] MIDI sync with Tamar ([TL] icon in status bar)
+[NOI] Added Noise module White noise with HPF and LPF to control colour
+[CVM] Added CV Mixer module
+[MLF] Module removed and filter moved into general VCF
+
+--
 v0.93.91 *EXPERIMENTAL *
 [WTO] Added wavetable editor
 [SHP] Added shape editor
