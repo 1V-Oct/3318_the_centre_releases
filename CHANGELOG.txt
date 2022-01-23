@@ -15,6 +15,17 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v1.6.57
+[SYS] Added new setting to reverse encoder
+[SYS] Added new setting to change clocks per quarter note
+[SYS] Added new setting to disable note quantisation
+[SYS] Added new setting to enable fast SD card operation
+[SYS] Fixed decompressor for importing presets
+[WTO] Added Fine Frequency control
+[STO] Added experimental ODIN2 preset importer
+[STO] Some improvements to FXP preset importer
+
+--
 v1.4.43
 [VCF] All filters completely rewritten
 [SYS] Fixed problem with offset to notes (all notes shifted by semitone)
