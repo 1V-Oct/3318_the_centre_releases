@@ -15,7 +15,8 @@ INP - Inputs
 PCH - Patch menu
 
 ==
-v1.6.57
+v1.6.58 *HOT FIX*
+[SYS] Fixed limit on setting Clocks PQN
 [SYS] Added new setting to reverse encoder
 [SYS] Added new setting to change clocks per quarter note
 [SYS] Added new setting to disable note quantisation
