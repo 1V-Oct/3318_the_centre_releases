@@ -15,6 +15,19 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v1.
+[DST] Distortion - new module
+[OUT] Reworked with display of VU Meters :)
+[OUT] Fixed problem of auto-level
+[MID] Added CV Output of Note Velocity
+[SYS] Reworked SD card reading to stop audio only on actual read
+[CVM] Fixed clam from 0 - +1 to -1 - +1
+[VCA] Added CV Output of VCA Signal
+[ECA] Added CV Output of ECA Signal
+[MIX] Added CV Output of MIX Signal
+[WTO] Added WARP mode FM
+
+
 v1.6.58 *HOT FIX*
 [SYS] Fixed limit on setting Clocks PQN
 [SYS] Added new setting to reverse encoder
