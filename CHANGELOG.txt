@@ -8,6 +8,8 @@ BRM - Balanced Ring Modulator
 BQF - Biquad Filter
 CMP - compressor
 RNG - Random Note Gnerator
+DST - Distortion
+DLY - Delay
 
 SYS - System related information
 SET - Settings
@@ -15,7 +17,12 @@ INP - Inputs
 PCH - Patch menu
 
 ==
-v1.
+v1.8.93
+[DLY] DELAY - New module
+[DST] Added stereo processing to distortion module
+[SYS] Inputs editor not showing values for unassignable inputs
+
+v1.8.28
 [DST] Distortion - new module
 [OUT] Reworked with display of VU Meters :)
 [OUT] Fixed problem of auto-level
@@ -27,7 +34,7 @@ v1.
 [MIX] Added CV Output of MIX Signal
 [WTO] Added WARP mode FM
 
-
+--
 v1.6.58 *HOT FIX*
 [SYS] Fixed limit on setting Clocks PQN
 [SYS] Added new setting to reverse encoder
