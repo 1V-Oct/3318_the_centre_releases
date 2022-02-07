@@ -17,6 +17,10 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v1.9.18 *HOT FIX*
+[SYS] Fixed problem with inputs returning 0 for No input instead of default value
+[SYS] Fixed race condition in wavetable loader (should eliminate random crash)
+
 v1.8.93
 [DLY] DELAY - New module
 [DST] Added stereo processing to distortion module
