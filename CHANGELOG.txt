@@ -17,6 +17,9 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v1.9.22 *HOT FIX*
+SOMETHING WENT WRONG DURING BUILD OF UPLOAD VERSION. NO OTHER FIXES.
+
 v1.9.18 *HOT FIX*
 [SYS] Fixed problem with inputs returning 0 for No input instead of default value
 [SYS] Fixed race condition in wavetable loader (should eliminate random crash)
