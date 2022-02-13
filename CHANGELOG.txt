@@ -17,6 +17,17 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+v1.10.37
+
+[VCF] Added basic Comb Filter (check resonance)
+[DLY] Fixed delay buffer clip problem
+[CLK] Added control screen to clock, tuned BPM generation
+[GAT] Added ability to On/Off individual gates
+[GAT] Now shows gate activity
+[MID] Fixed filtering by channel number
+[MID] Changed name of CV output to NTE (Note) from MID
+[SYS] LFS, LFO and ENV by default output to VBuf
+
 v1.9.22 *HOT FIX*
 SOMETHING WENT WRONG DURING BUILD OF UPLOAD VERSION. NO OTHER FIXES.
 
