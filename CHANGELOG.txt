@@ -17,6 +17,18 @@ INP - Inputs
 PCH - Patch menu
 
 ==
+
+v1.14.8
+
+[DLY] Added Error on low memory
+[VCF] Added Error on low memory for Comb Filter
+[SYS] Added support for DUNE2 / DUNE3 Wavetabe (.WT) format
+[CLK] Added support for Clocks PQN setting
+[SYS] Added bypass to VCF/VCA/ECA/DLY/DST modules when they are OFF instead 
+      of silence (orange colour in Patch Menu)
+[PCH] *EXPERIMENTAL* Added Multi Patch aka Set. (Patch->Init)
+
+--
 v1.10.37
 
 [VCF] Added basic Comb Filter (check resonance)
@@ -46,7 +58,7 @@ v1.8.28
 [OUT] Fixed problem of auto-level
 [MID] Added CV Output of Note Velocity
 [SYS] Reworked SD card reading to stop audio only on actual read
-[CVM] Fixed clam from 0 - +1 to -1 - +1
+[CVM] Fixed clamp from 0 - +1 to -1 - +1
 [VCA] Added CV Output of VCA Signal
 [ECA] Added CV Output of ECA Signal
 [MIX] Added CV Output of MIX Signal
