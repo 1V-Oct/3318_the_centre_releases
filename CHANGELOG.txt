@@ -18,6 +18,32 @@ PCH - Patch menu
 
 ==
 
+v1.99.00 Pre-2.0 *ALPHA* Release (Stable)
+
+* FOR TESTING PURPOSES ONLY, PRE-RELEASE VERSION *
+* DO NOT USE IF YOU RELY ON PREVIOUS PATCHES, SOME MIGHT BE BROKEN *
+See changes for previous version
+Please watch introductory videos at: https://www.youtube.com/watch?v=BmG4IE_GD8c&list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
+Please see Reference Cards.pdf attached with this release
+
+v1.31.xx
+
+[SYS] Scanning time for CV inputs reworked and improved greatly
+[SYS] Added notifications to some commands
+[SYS] Reworked problems with build system
+[INP] Fine Tune of V/OCT working now
+[WTO] Fixed error loading broken tables causing device lockup
+[MIX] Fully redone User Interface
+[SHP] Fixed problem loading longer shapes
+[WTO] Improved sound quality (less aliasing)
+[UI] Fully redone User Interface in all modules
+[PCH] Added Edit menu to modify output with ATT8 and Input with ATT1
+--
+
+v1.14.9
+[MID] MIDI was not distributed to whole Set but only available in PATCH 1
+*** [STO] Save last_patch also upon saving preset
+
 v1.14.8
 
 [DLY] Added Error on low memory
@@ -28,7 +54,6 @@ v1.14.8
       of silence (orange colour in Patch Menu)
 [PCH] *EXPERIMENTAL* Added Multi Patch aka Set. (Patch->Init)
 
---
 v1.10.37
 
 [VCF] Added basic Comb Filter (check resonance)
