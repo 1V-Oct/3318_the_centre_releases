@@ -17,8 +17,7 @@ INP - Inputs
 PCH - Patch menu
 
 ==
-
-v1.99.05 Pre-2.0 *ALPHA* Release (Stable)
+v1.99.12 Pre-2.0 *ALPHA* Release (Stable)
 
 * FOR TESTING PURPOSES ONLY, PRE-RELEASE VERSION *
 * DO NOT USE IF YOU RELY ON PREVIOUS PATCHES, SOME MIGHT BE BROKEN *
@@ -26,9 +25,14 @@ See changes for previous version
 Please watch introductory videos at: https://www.youtube.com/watch?v=BmG4IE_GD8c&list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 Please see Reference Cards.pdf attached with this release
 
-v1.99.05 *HOTFIX*
-[INP] BUG: CV1-4 were shifted to CV5-8
+v1.99.12
+[SET] Added setting to control overlay time
+[QNT] Use of knobs to control quantiser
 
+v1.99.05 *HOTFIX*
+[INP] BUG: CV 1-4 were shifted to CV 5-8
+
+v1.99.00
 v1.31.xx
 
 [SYS] Scanning time for CV inputs reworked and improved greatly
