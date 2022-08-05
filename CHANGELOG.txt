@@ -19,12 +19,17 @@ PCH - Patch menu
 ==
 v1.99.xx Pre-2.0 *ALPHA* Release (Stable)
 
-* FOR TESTING PURPOSES ONLY, PRE-RELEASE VERSION *
+* FOR TESTING PURPOSES ONLY, PRE-RELEASE VERSION, PLEASE READ CHANGELOG BELOW *
 * DO NOT USE IF YOU RELY ON PREVIOUS PATCHES, SOME MIGHT BE BROKEN *
 See changes for previous version
 Please watch introductory videos at: https://www.youtube.com/watch?v=BmG4IE_GD8c&list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 Please see reference-cards.pdf attached with this release
 NOTE: user-manual.pdf is very preliminary
+
+v1.99.xx **BREAKS PATCHES READ BELOW**
+[WTO] V/OCT inputs were giving note 0 for 0V. Changed to note 60 (Middle C). **THIS BREAKS PATCHES**
+[WTO] Coarse frequency was adjusting notes 0-64. Changed to -12 to 12 semitones (+/- one octave)
+[WTO] Fine Frequency now adjusts cents in range of +/- one semitone
 
 v1.99.18
 [LFS] Fixed Frequency Fine for adjusting frequency of LFS
