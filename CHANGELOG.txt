@@ -26,7 +26,15 @@ Please watch introductory videos at: https://www.youtube.com/watch?v=BmG4IE_GD8c
 Please see reference-cards.pdf attached with this release
 NOTE: user-manual.pdf is very preliminary
 
-v1.99.xx **BREAKS PATCHES READ BELOW**
+v1.99.23
+[QNT] Added Key for predefined scales. Use L8 to change Key
+[QNT] Use A8 to change CV input for quantiser
+[PLY] Added Polyrhythm module (see users_manual.pdf)
+[WTO] Fixed buffer overflow for very long tables
+[ENV] Added Trigger mode for AHDR (AD) envelopes
+[INP] Fixed problem with FINE NOTE control
+
+v1.99.19 **BREAKS PATCHES READ BELOW**
 [WTO] V/OCT inputs were giving note 0 for 0V. Changed to note 60 (Middle C). **THIS BREAKS PATCHES**
 [WTO] Coarse frequency was adjusting notes 0-64. Changed to -12 to 12 semitones (+/- one octave)
 [WTO] Fine Frequency now adjusts cents in range of +/- one semitone
@@ -40,6 +48,7 @@ v1.99.18
 
 v1.99.16
 [UI]  Added indicator for knob name in overlay
+
 
 v1.99.12
 [SET] Added setting to control overlay time
