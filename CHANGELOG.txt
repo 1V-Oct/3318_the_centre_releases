@@ -17,14 +17,27 @@ INP - Inputs
 PCH - Patch menu
 
 ==
-v1.99.xx Pre-2.0 *ALPHA* Release (Stable)
+v2.0.0 Release (Stable)
 
-* FOR TESTING PURPOSES ONLY, PRE-RELEASE VERSION, PLEASE READ CHANGELOG BELOW *
-* DO NOT USE IF YOU RELY ON PREVIOUS PATCHES, SOME MIGHT BE BROKEN *
-See changes for previous version
 Please watch introductory videos at: https://www.youtube.com/watch?v=BmG4IE_GD8c&list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
-Please see reference-cards.pdf attached with this release
-NOTE: user-manual.pdf is very preliminary
+Please see attached PDF manuals
+
+v2.0.0
+[SYS] Added File loding progress indicator for lengthy operations
+[SYS] Improved UI performance
+[ARP] Added Arpeggiator (see users-manual.pdf)
+[SYS] Fixed conversion of notes to volatge 
+[EUC] Fixed Note lengths
+[SYS] Fixed crash in filebrowser in certain scenarios
+[VCF] Proper Note and CV Tracking
+[SYS] Properly adjusted relationships between MIDI notes and Control Voltages
+[SMP] Fixed clipping during pitch conversion
+[DLY] Fixed clipping in some instances
+[SYS] Changed VXP (Patch) fileformat to JSON
+[LFS] Change of frequency visible when OSC not running
+[LFS] Brand new shape editor (see users-manual.pdf)
+[STO] Reworked big part of storing preset
+[NOI] Limited range of filter frequencies
 
 v1.99.23
 [QNT] Added Key for predefined scales. Use L8 to change Key
