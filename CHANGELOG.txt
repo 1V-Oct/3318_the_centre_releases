@@ -17,10 +17,15 @@ INP - Inputs
 PCH - Patch menu
 
 ==
-v2.0.0 Release (Stable)
+Please watch introductory videos at: 
+https://www.youtube.com/playlist?list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 
-Please watch introductory videos at: https://www.youtube.com/watch?v=BmG4IE_GD8c&list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 Please see attached PDF manuals
+
+v2.0.15
+[ARP] Added position control via external CV source (ignores all other settings)
+[GAT] Added tiny indicators for gate positions
+[QNT] Removed debug scales
 
 v2.0.0
 [SYS] Added File loding progress indicator for lengthy operations
