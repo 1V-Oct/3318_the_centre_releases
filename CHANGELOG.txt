@@ -22,6 +22,14 @@ https://www.youtube.com/playlist?list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 
 Please see attached PDF manuals
 
+v2.1.6
+[EUC] Better offset management
+[EUC] Fix for 1/64th note length
+[CLK] (NEW) Output of clock to Audio Outoput  (see users-manual.pdf)
+[CLK] (NEW) External Clock Input (see users-manual.pdf)
+[CLK] (NEW) BPM Sync (see users-manual.pdf)
+
+
 v2.1.0
 [SYS] Chnaged *Reverese Encoder* setting bahaviour. Now select from 4 modes. Also before not all settings affected.
 [PCH] Colour changes
