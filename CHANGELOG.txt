@@ -22,6 +22,21 @@ https://www.youtube.com/playlist?list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 
 Please see attached PDF manuals
 
+v2.1.41
+[QNT] Added advanced quantiser with Scala (SCL) files (see users-manual.pdf)
+[SMP] Added sample looping (grains) (see users-manual.pdf)
+[SYS] Limited filesystem to 1000 entries per directory (folder)
+[INP] Rounding in Inputs Display was off for OCT and NOTE
+[ARP] Added gate off (see users-manual.pdf)
+
+v2.1.32
+[DRC] Overlay was not showing
+[DRC] Added Gate button to waveform selector
+[CLK] Graph blinking to BPM not to CLK rate
+[ARP] Added setting to switch between fixed pattern or note length
+[VCF] Removed DL, MG, LD, OP filters (JP Only)
+[VCF] Rescaled BQ and COMB to full frequency
+
 v2.1.30
 [INP] Inputs follow kobs configuration
 [VCF] Filters displays have been normalised
