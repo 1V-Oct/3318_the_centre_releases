@@ -22,6 +22,9 @@ https://www.youtube.com/playlist?list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 
 Please see attached PDF manuals
 
+v2.1.51
+[WTO] Fixed default Octave to be 0
+
 v2.1.49
 [WT]  Fixed problem with graphical display of wavetables
 [SYS] Improved SD-card switch to fast mode
