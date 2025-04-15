@@ -22,6 +22,13 @@ https://www.youtube.com/playlist?list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 
 Please see attached PDF manuals
 
+v3.0.0 *BETA*
+[ALL] - 4 channel polyphony implementation
+[ALL] - MANAGE and EDIT of Patch Menu functions have been merged into one.
+[ALL] - Added CC MIDI assign function in Inputs
+[LFS] - added option to enable/disable waveform generation (saves CPU processing time)
+
+--
 v2.1.82 *BETA* - Only for TAIPO/TAMAR MIDI testing
 * THIS VERSION MIGHT INTRODUCE MULTIPLE ISSUES, PLEASE DO NOT UPDATE IF NOT NECESSARY *
 
@@ -30,7 +37,6 @@ v2.1.82 *BETA* - Only for TAIPO/TAMAR MIDI testing
 [WTO] Fixed problem with specific wavetables
 [SYS] MIDI Engine reworked
 
---
 v2.1.53
 [WTO] Inverted OSC output
 [LFO] Inverted OSC output
