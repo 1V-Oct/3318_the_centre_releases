@@ -22,7 +22,15 @@ https://www.youtube.com/playlist?list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 
 Please see attached PDF manuals
 
-v3.0.0 *BETA*
+v3.0.56 *BETA 2*
+[SYS] Re-enabled disabled SysEx, now MIDI Test Loop works
+[QNT] Added visualisation of input and output (quantised) notes
+[QNT] Added LVL1 knob to control preconfigured scale
+[EUC] Enabled for polyphony
+[PLY] Enabled for polyphony
+[CLK] Enabled for polyphony
+
+v3.0.0 
 [ALL] - 4 channel polyphony implementation
 [ALL] - MANAGE and EDIT of Patch Menu functions have been merged into one.
 [ALL] - Added CC MIDI assign function in Inputs
