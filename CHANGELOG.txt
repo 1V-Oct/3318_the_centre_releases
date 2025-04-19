@@ -22,13 +22,13 @@ https://www.youtube.com/playlist?list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 
 Please see attached PDF manuals
 
-v3.0.60 *BETA 4*
+v3.1.39 *BETA 4*
 [LFS] Fixed sync to MIDI Clock
 [DLY] Enabled LoFi Delay (Only for Mono mode)
 [RVB] Enabled LoFi FDN Reverb (Only for Mono mode)
 [SYS] Removed extra debug items
 
-v3.0.60 *BETA 3*
+v3.0.71 *BETA 3*
 [SYS] Added global MIDI Through to be enabled in System Settings
 [SET] Changed button layout
 [MID] Clean notes on channel change
