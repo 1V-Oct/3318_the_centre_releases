@@ -22,7 +22,11 @@ https://www.youtube.com/playlist?list=PLn4dQ5nT5yxFH9R5nt0X9lMtQl5h2CFW6
 
 Please see attached PDF manuals
 
-v3.2.02 *BETA 5*
+v3.2.33 *BETA 7*
+[WTO] Fixed paraphony
+[WTO] Fixed AM in polyphony mode
+
+v3.2.02 *BETA 6*
 [MID] Fix MIDI BPM detection upon start
 [WTO] Glide param changed to respond in nonlinear way
 
